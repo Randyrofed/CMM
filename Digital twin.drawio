@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T14:33:39.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rKAPb8seLdXQPUwPu4-3" version="20.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-22T14:39:29.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Kix8ukTmyNg-pigN9BjB" version="20.2.0" type="github" pages="2">
   <diagram id="Gnu-nJ8GH0qcafx3-Hsz" name="Общая схема">
     <mxGraphModel dx="2062" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mtR7QRbX21wIe3IfvzJF" name="Структура системы управления на базе ЦД">
-    <mxGraphModel dx="2028" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2568" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,13 +109,13 @@
           <mxGeometry x="160" y="310" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DqPXyWJG6k27BeUsXp37-13" value="Подсистема цифровых двойников" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="245" width="380" height="50" as="geometry" />
+          <mxGeometry x="160" y="245" width="470" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DqPXyWJG6k27BeUsXp37-14" value="&lt;br&gt;База данных" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="45" y="180" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqPXyWJG6k27BeUsXp37-15" value="Подсистема интеллектуального управления" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="160" y="100" width="500" height="130" as="geometry" />
+          <mxGeometry x="158" y="83" width="470" height="150" as="geometry" />
         </mxCell>
         <mxCell id="DqPXyWJG6k27BeUsXp37-16" value="BIM-системы" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-170" y="220" width="100" height="50" as="geometry" />
@@ -125,6 +125,9 @@
         </mxCell>
         <mxCell id="DqPXyWJG6k27BeUsXp37-19" value="Прочие &#xa;системы" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-170" y="290" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DqPXyWJG6k27BeUsXp37-37" value="&lt;b&gt;Оперативное управление&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;verticalAlign=top;spacing=-3;" vertex="1" parent="1">
+          <mxGeometry x="165" y="110" width="225" height="117" as="geometry" />
         </mxCell>
         <mxCell id="DqPXyWJG6k27BeUsXp37-20" value="Мониторинг состояния ГШО" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="180" y="130" width="90" height="40" as="geometry" />
@@ -141,11 +144,26 @@
         <mxCell id="DqPXyWJG6k27BeUsXp37-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="390" width="550" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DqPXyWJG6k27BeUsXp37-28" value="Обслуживание по состоянию" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="280" y="130" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="DqPXyWJG6k27BeUsXp37-29" value="Оптимизация энергопотребления" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DqPXyWJG6k27BeUsXp37-32" value="Обслуживание по состоянию" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DqPXyWJG6k27BeUsXp37-38" value="Планирование производства" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;verticalAlign=top;fontStyle=1;spacing=-3;" vertex="1" parent="1">
+          <mxGeometry x="397" y="110.5" width="225" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="DqPXyWJG6k27BeUsXp37-33" value="Планирование и оптимизация производства" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="405" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DqPXyWJG6k27BeUsXp37-34" value="Управление персоналом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="405" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DqPXyWJG6k27BeUsXp37-35" value="Оценка эффективности" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="515" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DqPXyWJG6k27BeUsXp37-36" value="Оценка качества" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="515" y="180" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
