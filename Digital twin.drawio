@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T08:26:30.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ERYEG1RzON1zbt7qQGHQ" version="20.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-24T09:09:34.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pDfAcaxBnH1bGuiYgZG7" version="20.1.1" type="github" pages="4">
   <diagram id="Gnu-nJ8GH0qcafx3-Hsz" name="Общая схема">
-    <mxGraphModel dx="1949" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="619" dy="2155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,8 +367,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4qwKNF7YrFAdMdnGINwd" name="Page-4">
-    <mxGraphModel dx="1364" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="4qwKNF7YrFAdMdnGINwd" name="Развитие концепции">
+    <mxGraphModel dx="673" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
