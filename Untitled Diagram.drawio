@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T16:51:39.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="E7-5WvpyfA8GCddqOn1k" version="20.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-31T16:52:02.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wod-WFWeYTUDxrAmdZi4" version="20.2.0" type="github" pages="2">
   <diagram id="bSEXWe7huGikY-fucAUu" name="Page-1">
     <mxGraphModel dx="903" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,49 +145,49 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oIBtntd2S3jkKAt8ycod" name="Page-2">
-    <mxGraphModel dx="-5" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-296" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Olc4277rgILTrr1lNCX6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Olc4277rgILTrr1lNCX6-4" target="Olc4277rgILTrr1lNCX6-6">
+        <mxCell id="Olc4277rgILTrr1lNCX6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="Olc4277rgILTrr1lNCX6-4" target="Olc4277rgILTrr1lNCX6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Olc4277rgILTrr1lNCX6-4" value="Создание имитационной модели в PowerFactory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Olc4277rgILTrr1lNCX6-4" value="Создание имитационной модели в PowerFactory" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2140" y="240" width="170" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="Olc4277rgILTrr1lNCX6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Olc4277rgILTrr1lNCX6-6" target="Olc4277rgILTrr1lNCX6-8">
+        <mxCell id="Olc4277rgILTrr1lNCX6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="Olc4277rgILTrr1lNCX6-6" target="Olc4277rgILTrr1lNCX6-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Olc4277rgILTrr1lNCX6-6" value="Технико-экономическая оценка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Olc4277rgILTrr1lNCX6-6" value="Технико-экономическая оценка" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2140" y="312" width="170" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="Olc4277rgILTrr1lNCX6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Olc4277rgILTrr1lNCX6-8" target="Olc4277rgILTrr1lNCX6-9">
+        <mxCell id="Olc4277rgILTrr1lNCX6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="Olc4277rgILTrr1lNCX6-8" target="Olc4277rgILTrr1lNCX6-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Olc4277rgILTrr1lNCX6-8" value="Формирование отчета с рекомендациями" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Olc4277rgILTrr1lNCX6-8" value="Формирование отчета с рекомендациями" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2140" y="385" width="170" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Olc4277rgILTrr1lNCX6-9" value="Конец" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Olc4277rgILTrr1lNCX6-9" value="Конец" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2140" y="463" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Olc4277rgILTrr1lNCX6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Olc4277rgILTrr1lNCX6-11" target="Olc4277rgILTrr1lNCX6-22">
+        <mxCell id="Olc4277rgILTrr1lNCX6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="Olc4277rgILTrr1lNCX6-11" target="Olc4277rgILTrr1lNCX6-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Olc4277rgILTrr1lNCX6-11" value="Начало" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Olc4277rgILTrr1lNCX6-11" value="Начало" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2145" y="20" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Olc4277rgILTrr1lNCX6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Olc4277rgILTrr1lNCX6-22" target="3ND-Hlq3oIswQlKZ61ZW-1">
+        <mxCell id="Olc4277rgILTrr1lNCX6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="Olc4277rgILTrr1lNCX6-22" target="3ND-Hlq3oIswQlKZ61ZW-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2225" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Olc4277rgILTrr1lNCX6-22" value="Получение и обработка данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Olc4277rgILTrr1lNCX6-22" value="Получение и обработка данных" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2140" y="94" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3ND-Hlq3oIswQlKZ61ZW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="3ND-Hlq3oIswQlKZ61ZW-1" target="Olc4277rgILTrr1lNCX6-4">
+        <mxCell id="3ND-Hlq3oIswQlKZ61ZW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontFamily=Times New Roman;" edge="1" parent="1" source="3ND-Hlq3oIswQlKZ61ZW-1" target="Olc4277rgILTrr1lNCX6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ND-Hlq3oIswQlKZ61ZW-1" value="Выбор генерирующего оборудования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ND-Hlq3oIswQlKZ61ZW-1" value="Выбор генерирующего оборудования" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2140" y="167" width="170" height="42" as="geometry" />
         </mxCell>
       </root>
