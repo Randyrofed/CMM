@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T17:41:31.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WacCyCiuyskhRiRrAxmj" version="20.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-01T17:42:40.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="L6jlU21AScF9JealbY9k" version="20.2.2" type="github" pages="4">
   <diagram id="Gnu-nJ8GH0qcafx3-Hsz" name="Общая схема">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,15 +368,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4qwKNF7YrFAdMdnGINwd" name="Развитие концепции">
-    <mxGraphModel dx="2633" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-10" value="Существующий подход" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="705" width="230" height="30" as="geometry" />
+          <mxGeometry x="1264" y="705" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-11" value="Датацентричный подход" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1985" y="705" width="210" height="30" as="geometry" />
+          <mxGeometry x="1925" y="705" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-13" target="fYcs5nJ1JPfwbDfYOnap-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -385,13 +385,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-13" value="Моделирование системы электроснабжения" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="818" width="140" height="70" as="geometry" />
+          <mxGeometry x="1134" y="818" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-14" value="Информационная модель ЦД" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="2030" y="910.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="1970" y="910.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-15" value="Онтология" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2030" y="980.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="1970" y="980.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=30;notch=0;spacing=1;" parent="1" vertex="1">
           <mxGeometry x="1680" y="944.5" width="70" height="35" as="geometry" />
@@ -400,28 +400,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-20" value="Моделирование месторождения&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="925.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="1134" y="925.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-21" target="fYcs5nJ1JPfwbDfYOnap-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-21" value="Моделирование горно-шахтного оборудования" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="1031" width="140" height="70" as="geometry" />
+          <mxGeometry x="1134" y="1031" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-22" target="fYcs5nJ1JPfwbDfYOnap-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-22" value="Моделирование технологического процесса" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="818" width="140" height="70" as="geometry" />
+          <mxGeometry x="1324" y="818" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-23" value="Моделирование системы вентиляции" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1031" width="140" height="70" as="geometry" />
+          <mxGeometry x="1324" y="1031" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-24" target="fYcs5nJ1JPfwbDfYOnap-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-24" value="Обмен данными, рабочей и проектной документацией" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="925.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="1324" y="925.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-25" target="fYcs5nJ1JPfwbDfYOnap-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -430,7 +430,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-25" value="Создание &lt;br&gt;BIM-моделей производственных помещений" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="817" width="140" height="70" as="geometry" />
+          <mxGeometry x="1514" y="817" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeColor=default;fontStyle=1" parent="1" source="fYcs5nJ1JPfwbDfYOnap-26" target="fYcs5nJ1JPfwbDfYOnap-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -439,164 +439,164 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-26" value="Моделирование горных выработок" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="925.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="1514" y="925.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-27" target="fYcs5nJ1JPfwbDfYOnap-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-27" value="Создание BIM-моделей&amp;nbsp;добычных участков" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="1031" width="140" height="70" as="geometry" />
+          <mxGeometry x="1514" y="1031" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1280" y="960.39" as="sourcePoint" />
-            <mxPoint x="1230" y="960.39" as="targetPoint" />
+            <mxPoint x="1324" y="960.39" as="sourcePoint" />
+            <mxPoint x="1274" y="960.39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-31" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-21" target="fYcs5nJ1JPfwbDfYOnap-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1240" y="1070" as="sourcePoint" />
-            <mxPoint x="1290" y="1020" as="targetPoint" />
+            <mxPoint x="1284" y="1070" as="sourcePoint" />
+            <mxPoint x="1334" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-34" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-20" target="fYcs5nJ1JPfwbDfYOnap-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1191" y="925.5" as="sourcePoint" />
-            <mxPoint x="1241" y="875.5" as="targetPoint" />
+            <mxPoint x="1235" y="925.5" as="sourcePoint" />
+            <mxPoint x="1285" y="875.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1210" y="910" />
-              <mxPoint x="1491" y="910" />
+              <mxPoint x="1254" y="910" />
+              <mxPoint x="1535" y="910" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-23" target="fYcs5nJ1JPfwbDfYOnap-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1290" y="970.3899999999999" as="sourcePoint" />
-            <mxPoint x="1240" y="970.3899999999999" as="targetPoint" />
+            <mxPoint x="1334" y="970.3899999999999" as="sourcePoint" />
+            <mxPoint x="1284" y="970.3899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-36" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-21" target="fYcs5nJ1JPfwbDfYOnap-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1350" y="970" as="sourcePoint" />
-            <mxPoint x="1400" y="920" as="targetPoint" />
+            <mxPoint x="1394" y="970" as="sourcePoint" />
+            <mxPoint x="1444" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeColor=default;fontStyle=1" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1470" y="852.5699999999999" as="sourcePoint" />
-            <mxPoint x="1420" y="852.5699999999999" as="targetPoint" />
+            <mxPoint x="1514" y="852.5699999999999" as="sourcePoint" />
+            <mxPoint x="1464" y="852.5699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-22" target="fYcs5nJ1JPfwbDfYOnap-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1290" y="970.3899999999999" as="sourcePoint" />
-            <mxPoint x="1240" y="970.3899999999999" as="targetPoint" />
+            <mxPoint x="1334" y="970.3899999999999" as="sourcePoint" />
+            <mxPoint x="1284" y="970.3899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1470.0000000000002" y="1065.7" as="sourcePoint" />
-            <mxPoint x="1419.9999999999998" y="1065.7" as="targetPoint" />
+            <mxPoint x="1514.0000000000002" y="1065.7" as="sourcePoint" />
+            <mxPoint x="1463.9999999999998" y="1065.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-41" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1209.7131468717494" y="826.9995706809592" as="sourcePoint" />
-            <mxPoint x="1490.2868531282506" y="826.9995706809592" as="targetPoint" />
+            <mxPoint x="1253.7131468717494" y="826.9995706809592" as="sourcePoint" />
+            <mxPoint x="1534.2868531282506" y="826.9995706809592" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1210" y="801.14" />
-              <mxPoint x="1491" y="801.14" />
+              <mxPoint x="1254" y="801.14" />
+              <mxPoint x="1535" y="801.14" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-43" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1219.4974746830583" y="1051.2512626584708" as="sourcePoint" />
-            <mxPoint x="1490" y="1040" as="targetPoint" />
+            <mxPoint x="1263.4974746830583" y="1051.2512626584708" as="sourcePoint" />
+            <mxPoint x="1534" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-44" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;curved=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-27" target="fYcs5nJ1JPfwbDfYOnap-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1219.4974746830583" y="1051.2512626584708" as="sourcePoint" />
-            <mxPoint x="1310.5025253169417" y="887.7487373415292" as="targetPoint" />
+            <mxPoint x="1263.4974746830583" y="1051.2512626584708" as="sourcePoint" />
+            <mxPoint x="1354.5025253169417" y="887.7487373415292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-62" value="Моделирование системы электроснабжения" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1850" y="804" width="140" height="70" as="geometry" />
+          <mxGeometry x="1790" y="804" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-78" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=default;opacity=70;entryX=0.039;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-63" target="fYcs5nJ1JPfwbDfYOnap-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-63" value="Моделирование месторождения&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1830" y="925.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="1770" y="925.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-64" value="Моделирование горно-шахтного оборудования" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="1039" width="140" height="70" as="geometry" />
+          <mxGeometry x="1810" y="1039" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-65" value="Моделирование технологического процесса" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="2020" y="744" width="140" height="70" as="geometry" />
+          <mxGeometry x="1960" y="744" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-66" value="Моделирование системы вентиляции" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="2020" y="1084.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="1960" y="1084.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-68" value="Создание &lt;br&gt;BIM-моделей производственных помещений" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="2190" y="804" width="140" height="70" as="geometry" />
+          <mxGeometry x="2130" y="804" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-69" value="Моделирование горных выработок" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="2210" y="925.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="2150" y="925.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-70" value="Создание BIM-моделей&amp;nbsp;добычных участков" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="2190" y="1039" width="140" height="70" as="geometry" />
+          <mxGeometry x="2130" y="1039" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;opacity=70;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-14" target="fYcs5nJ1JPfwbDfYOnap-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2090" y="909" as="sourcePoint" />
-            <mxPoint x="1910" y="959" as="targetPoint" />
+            <mxPoint x="2030" y="909" as="sourcePoint" />
+            <mxPoint x="1850" y="959" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-75" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;opacity=70;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-14" target="fYcs5nJ1JPfwbDfYOnap-62" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1860" y="1019" as="sourcePoint" />
-            <mxPoint x="1910" y="969" as="targetPoint" />
+            <mxPoint x="1800" y="1019" as="sourcePoint" />
+            <mxPoint x="1850" y="969" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-79" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=default;opacity=70;entryX=0.039;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2145.3199999999997" y="959.99" as="sourcePoint" />
-            <mxPoint x="2210" y="959.9100000000001" as="targetPoint" />
+            <mxPoint x="2085.3199999999997" y="959.99" as="sourcePoint" />
+            <mxPoint x="2150" y="959.9100000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-80" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;opacity=70;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-14" target="fYcs5nJ1JPfwbDfYOnap-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1830" y="1059" as="sourcePoint" />
-            <mxPoint x="1880" y="1009" as="targetPoint" />
+            <mxPoint x="1770" y="1059" as="sourcePoint" />
+            <mxPoint x="1820" y="1009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-81" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;opacity=70;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-66" target="fYcs5nJ1JPfwbDfYOnap-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1850" y="999" as="sourcePoint" />
-            <mxPoint x="1900" y="949" as="targetPoint" />
+            <mxPoint x="1790" y="999" as="sourcePoint" />
+            <mxPoint x="1840" y="949" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-82" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;opacity=70;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-15" target="fYcs5nJ1JPfwbDfYOnap-64" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2055.8809321084395" y="928.7381357831216" as="sourcePoint" />
-            <mxPoint x="1979.4974746830535" y="873.7487373415269" as="targetPoint" />
+            <mxPoint x="1995.8809321084395" y="928.7381357831216" as="sourcePoint" />
+            <mxPoint x="1919.4974746830535" y="873.7487373415269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-83" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;opacity=70;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-70" target="fYcs5nJ1JPfwbDfYOnap-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1880" y="999" as="sourcePoint" />
-            <mxPoint x="1930" y="949" as="targetPoint" />
+            <mxPoint x="1820" y="999" as="sourcePoint" />
+            <mxPoint x="1870" y="949" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYcs5nJ1JPfwbDfYOnap-84" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;opacity=70;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="fYcs5nJ1JPfwbDfYOnap-21" target="fYcs5nJ1JPfwbDfYOnap-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1510" y="1110" as="sourcePoint" />
-            <mxPoint x="1560" y="1060" as="targetPoint" />
+            <mxPoint x="1554" y="1110" as="sourcePoint" />
+            <mxPoint x="1604" y="1060" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1210" y="1120" />
-              <mxPoint x="1490" y="1120" />
+              <mxPoint x="1254" y="1120" />
+              <mxPoint x="1534" y="1120" />
             </Array>
           </mxGeometry>
         </mxCell>
