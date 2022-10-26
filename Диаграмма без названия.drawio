@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T15:40:50.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="nY6wm6UWCUvDqzudH-cf" type="github"><diagram id="NW3B09GjGPFGgVOKaHgz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-26T16:19:13.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="24HKQfiDpu9qugeuN7x8" version="20.5.1" type="github">
+  <diagram id="NW3B09GjGPFGgVOKaHgz" name="Страница 1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="op5rVWB1hYR0VrUyWiUw-1" target="op5rVWB1hYR0VrUyWiUw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="op5rVWB1hYR0VrUyWiUw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-2" value="Data Processing" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="op5rVWB1hYR0VrUyWiUw-7" target="op5rVWB1hYR0VrUyWiUw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-7" value="Estimation of the composition and quantity of СMM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="op5rVWB1hYR0VrUyWiUw-8" target="op5rVWB1hYR0VrUyWiUw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-8" value="Estimation of the amount of energy" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="op5rVWB1hYR0VrUyWiUw-13" target="op5rVWB1hYR0VrUyWiUw-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="op5rVWB1hYR0VrUyWiUw-13" target="op5rVWB1hYR0VrUyWiUw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-13" value="Suitable fuel for&amp;nbsp;&lt;br&gt;thermal engine" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="op5rVWB1hYR0VrUyWiUw-15" target="op5rVWB1hYR0VrUyWiUw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-15" value="Choice of utilization method" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="740" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="op5rVWB1hYR0VrUyWiUw-22" target="op5rVWB1hYR0VrUyWiUw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-22" value="Comparative analysis" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="840" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-24" value="Finish" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="940" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-27" value="1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="315" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-28" value="2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="415" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-29" value="3" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="515" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-30" value="4" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="635" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-31" value="5" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="755" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op5rVWB1hYR0VrUyWiUw-32" value="6" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="855" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
